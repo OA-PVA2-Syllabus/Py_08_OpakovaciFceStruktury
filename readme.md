@@ -66,3 +66,11 @@ Nepodporovaná hodnota, zadej znovu
 Zadej 1. prvek z 3: 8
 ```
 * Po úplném naplnění seznamu zobrazte uživateli zadané hodnoty.
+
+### 7
+
+V souboru `game.py` vytvořte hru pro hádání čísel.
+* Od uživatele si vyžádejte dvě hodnoty rozsahu.
+* Program vygeneruje náhodné číslo v zadaném rozsahu.
+* Vy jako uživatel budete hádat hodnotu. Každou odpověď program vyhodnotí a řekne vám, jestli zadaná hodnota je menší nebo větší.
+* Jako bonus pokud uživatel zadá hodnotu `-1`, ukončete hádání a napište uživateli informaci o prohře a jaké bylo hledané číslo.
