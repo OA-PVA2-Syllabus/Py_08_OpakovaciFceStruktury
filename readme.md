@@ -1,5 +1,5 @@
 # PVA2 - Programování a vývoj aplikací
-## Cvičení 07: Funkce
+## Cvičení 08: Opakování Funkce a cykly
 
 ### 1
 Deklarujte funkce `multiplication`. Úkolem funkce bude vypsání násobku daného čísla.
