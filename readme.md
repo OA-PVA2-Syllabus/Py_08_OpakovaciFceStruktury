@@ -1,8 +1,8 @@
 # PVA2 - Programování a vývoj aplikací
-## Cvičení 08: Opakování Funkce a cykly
+## Cvičení 09: Opakování Funkce a cykly
 
 ### 1
-Deklarujte funkce `multiplication`. Úkolem funkce bude vypsání násobku daného čísla.
+Deklarujte funkce `multiplication`. Úkolem funkce bude postupné vypsání  1-10 násobku daného čísla.
 
 Například pro atribut 2 bude výstup
 ```
@@ -19,11 +19,21 @@ Například pro atribut 2 bude výstup
 ```
 
 ### 2
-Napište program `row` s využitím dvou cyklů. Vstupní parametr bude obsahovat maximální hodnotu, jejích budete vypisovat postupně od čísla 0 do hodnoty a zpátky do 0. Aby se hodnoty vypsaly na jednom řádku, využijte `end=' '` jako další atribut fce print
+Napište program `row` s využitím dvou cyklů. Budete vypisovat postupně od čísla 0 do hodnoty a zpátky do 0.
+Vstupní parametr bude obsahovat maximální hodnotu výpisu.
+Aby se hodnoty vypsaly na jednom řádku, využijte `end=' '` jako další atribut fce print
+Výstup fce naformátujte dle vzoru
+
 ```
-Ukázka pro atribut 10:
+Ukázka výstupu fce pro atribut 10:
 0 1 2 3 4 5 6 7 8 9 10 9 8 7 6 5 4 3 2 1 0
 ``` 
+
+``` 
+Řada čísel tam a zpátky pro hodnotu 10 je: 0 1 2 3 4 5 6 7 8 9 10 9 8 7 6 5 4 3 2 1 0
+``` 
+
+
 
 
 ### 3
@@ -47,7 +57,7 @@ Očekávaný výstup:
 Zkopírujte si kód z předchozího cvičení a funkci přejmenujte na reverseList. Za využití cyklu bude funkce vracet seznam, který bude mít hodnoty opačném pořadí.
 
 ### 5
-Deklarujte funkci `removeFromList`, která bude vracet upravený seznam. Fce odstraní všechny zadané hodnoty ze seznamu. Seznam a hodnota k odstranění budou zadávány jako parametr funkce
+Deklarujte funkci `removeFromList`, která bude vracet upravený seznam. Fce odstraní ze seznamu všechny hodnoty zadané uživatelem. Seznam a hodnota k odstranění budou zadávány jako parametr funkce
 
 
 
